@@ -1,0 +1,33 @@
+{
+  "name": "irineu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "cowsay": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "dblapi.js": "^2.4.1",
+    "dgram": "^1.0.1",
+    "discord.js": "^12.3.0",
+    "gifencoder": "^2.0.1",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "mysql": "^2.18.1",
+    "os": "^0.1.1",
+    "request": "^2.88.2",
+    "samp-query": "^0.1.5",
+    "simple-youtube-api": "^5.2.1",
+    "util": "^0.12.3",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.2.1"
+  }
+}
